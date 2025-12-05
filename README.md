@@ -8,7 +8,10 @@ Each year, Pinterest releases its [“Pinterest Palette”](https://business.pin
 Can the Pinterest Palette be trusted by businesses hoping to capitalize on emerging aesthetics, and which of its predicted colors ultimately proved most popular over the year?
 
 # Data
+I selected Google Trends as the primary data source because it offers a reliable, real-time measure of public interest across a broad and diverse user base. While Pinterest’s palette predictions originate within its own platform ecosystem, Google Trends reflects search behavior from the general population, making it an ideal tool for testing whether Pinterest’s anticipated colors actually resonate beyond its own users. Google is the most widely used search engine in the world, so fluctuations in search volume provide a strong indicator of how much attention each color attracts in everyday online behavior. By comparing Pinterest’s curated predictions to Google Trends’ real-world search data, I am able to evaluate the palette’s predictive accuracy and determine which colors captured genuine public interest over the year.
 
+# Line Plot of Weekly Search Interest
+!
 
 ## Google Trends Search Interest for 2025 Color of the Year
 
