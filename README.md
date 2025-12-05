@@ -14,7 +14,7 @@ I selected Google Trends as the primary data source because it offers a reliable
 I started by making sure all the data sets I collected through Google Trends only represented the year of 2025. Then, I changed the Week column from showing the numerical dates (e.g. 01-06-25) to just Week 1. I also made sure that the column headers were "Week" and "Searches" for each dataset. 
 
 # Line Plot of Weekly Search Interest
-![Color Trends Line Plot] (https://github.com/ameyaadesai/Ameyaa-Desai-Personal-Dataset-Project/blob/a2d143032fe55c170ed53dbc326c057dd56fc9a7/colortrendsline.png)
+![Color Trends Line Plot](https://github.com/ameyaadesai/Ameyaa-Desai-Personal-Dataset-Project/blob/a2d143032fe55c170ed53dbc326c057dd56fc9a7/colortrendsline.png)
 
 The first graph I created was a line plot comparing weekly Google Trends search interest for all five colors in the Pinterest Palette. I chose this graph because it gave me the most direct way to visualize how each color’s popularity changed over time, which aligns with my goal of understanding whether Pinterest’s predictions actually match broader public attention. From this visualization, I immediately learned that Cherry Red and Indigo Aura consistently showed higher search interest than the other colors, with Cherry Red especially standing out across most weeks. Butter Yellow stayed in the mid-range, showing modest but steady interest, while Dill Green and Alpine Oat rarely rose above the bottom, often staying close to zero.
 
