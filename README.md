@@ -8,10 +8,18 @@ Each year, Pinterest releases its [“Pinterest Palette”](https://business.pin
 Can the Pinterest Palette be trusted by businesses hoping to capitalize on emerging aesthetics, and which of its predicted colors ultimately proved most popular over the year?
 
 # Data
-I selected Google Trends as the primary data source because it offers a reliable, real-time measure of public interest across a broad and diverse user base. While Pinterest’s palette predictions originate within its own platform ecosystem, Google Trends reflects search behavior from the general population, making it an ideal tool for testing whether Pinterest’s anticipated colors actually resonate beyond its own users. Google is the most widely used search engine in the world, so fluctuations in search volume provide a strong indicator of how much attention each color attracts in everyday online behavior. By comparing Pinterest’s curated predictions to Google Trends’ real-world search data, I am able to evaluate the palette’s predictive accuracy and determine which colors captured genuine public interest over the year.
+I selected Google Trends as the primary data source because it offers a reliable, real-time measure of public interest across a broad and diverse user base. While Pinterest’s palette predictions originate within its own platform ecosystem, Google Trends reflects search behavior from the general population, making it an ideal tool for testing whether Pinterest’s anticipated colors actually resonate beyond its own users. Google is the most widely used search engine in the world, so fluctuations in search volume provide a strong indicator of how much attention each color attracts in everyday online behavior. By comparing Pinterest’s curated predictions to Google Trends’ real-world search data, I am able to evaluate the palette’s predictive accuracy and determine which colors captured genuine public interest over the year. I collected the data of how many searches each of Pintrest's five colors (butter yellow, dill green, indigo aura, cherry red, and alpine oat) had over the course this year. 
+
+# Data Cleaning
+I started by making sure all the data sets I collected through Google Trends only represented the year of 2025. Then, I changed the Week column from showing the numerical dates (e.g. 01-06-25) to just Week 1. I also made sure that the column headers were "Week" and "Searches" for each dataset. 
 
 # Line Plot of Weekly Search Interest
-!
+![Color Trends Line Plot] (https://github.com/ameyaadesai/Ameyaa-Desai-Personal-Dataset-Project/blob/a2d143032fe55c170ed53dbc326c057dd56fc9a7/colortrendsline.png)
+
+The first graph I created was a line plot comparing weekly Google Trends search interest for all five colors in the Pinterest Palette. I chose this graph because it gave me the most direct way to visualize how each color’s popularity changed over time, which aligns with my goal of understanding whether Pinterest’s predictions actually match broader public attention. From this visualization, I immediately learned that Cherry Red and Indigo Aura consistently showed higher search interest than the other colors, with Cherry Red especially standing out across most weeks. Butter Yellow stayed in the mid-range, showing modest but steady interest, while Dill Green and Alpine Oat rarely rose above the bottom, often staying close to zero.
+
+Based on this graph alone, Cherry Red appeared to be the strongest contender for the year’s true “color of the year,” followed closely by Indigo Aura. The line plot revealed that not all Pinterest-predicted colors gained meaningful traction, and that some colors resonated far more with the public than others. However, because the lines overlapped often, the graph was visually dense, which pushed me to explore clearer comparison methods in the next visualization.
+
 
 ## Google Trends Search Interest for 2025 Color of the Year
 
